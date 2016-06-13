@@ -1,4 +1,4 @@
-En`charsewt "utf-8";
+@charset "utf-8";
 
 
 {
@@ -17,7 +17,7 @@ background-color: red;
 }
 section{
 padding: 10px;
-background-color: orenge;
+background-color: orange;
 }
 asaide{
 padding: 10px;
@@ -41,9 +41,6 @@ text-align: center;
   display:block;
   clear:both;
 }
-}
-}
-  }
 }
 
 @media screen and (min-width:1025px){
