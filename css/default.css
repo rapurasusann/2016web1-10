@@ -49,7 +49,7 @@ text-align: center;
     margin: auto;
   }
   section{
-    width: calc(70%-10px);
+    width: calc(70%-20px);
     float:left;
   }
   #side{
@@ -57,7 +57,7 @@ text-align: center;
     float:left;
   }
   aside{
-    width: calc(100% -10px);
+    width: calc(100% -20px);
   }
   #main:after{
     
